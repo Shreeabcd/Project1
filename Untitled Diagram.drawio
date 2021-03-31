@@ -1,1 +1,184 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T16:39:15.259Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Qmg1BnCJci0MCPqNJqGT" version="14.5.3" type="github"><diagram id="T19K3OvtSC4P023Olb54" name="Page-1">5ZxRd5s2FMc/jR/dg5Ax+DFNsi5b0vk0W9c9KkbB2gHkCVHb+/STQGCQ7Dh2MCJdz2kCFyzgpz9XV1fXGcHrZPOJodXygYY4HrlOuBnBm5HrgiAIxC9p2SrL1IWlJWIkVLad4ZH8i5XRUdachDhrncgpjTlZtY0LmqZ4wVs2xBhdt097pnH7qisUYcPwuECxaf2ThHxZWgPP2dl/xiRaVlcGjjqSoOpkZciWKKTrhgnejuA1o5SXW8nmGseSXsWl/NxPB47WN8Zwyl/1gWjygH/5O/nn1+39jHz1Pq+/5OOJVzbzHcW5emJ1t3xbIVgvCcePK7SQ+2vRzyP4ccmTWOwBsYmyVQn+mWywuNZH1SJmHG8O3iuoCQjtYJpgzrbiFPWBqWKmVDP2KojrXR+4TmVcNjpgZ0Wq56O69R0csaH4nMAKGKj+yDBjBi/R0Su5mSfx1YJTJpBIGESI6h494XhOM8IJTcUpT5RzmjROuIpJJA9wqlGmOY9Jiq9rmTvdkB5DDTU0ScM9nKeXouwalO9pJAx3qQFatCbcgNj5eESiHXCCbptTDaDBCewTZHApUOabe3XzcPf5ncvRa2P2HROzD0zK4GJ69E3MYSgvJP6neC1+fsEZRzlD4gmHpFBoXaGBge42JFxeKZU/YoZRKB8AhSGWSNkwQU6sg5wd0OANyZZFQCQDIEGTDxmj59vGWMWUpiBLkFOUSAzpU7aqEQwE3jSwDs8Mf0oRrhgRHMQVI0TSTNLEaLGsodqEqMU2vn2IZnSjFDhXFOmznC0NjVwws04OGuRucIw5HtAArEETU0Hr1CaHqQ3u9QQAWOc1NXjN86e4HGabMhPRC02j4la5PEb5EjP55mKOSJwNauwAE/tcD0XRzVjF+W2FZWD4O0lIGllmqGvTtc/wYDj9fiBaH0aqi72U78JpeCUzh2JvEaMsI4s2Gbwh/Ftj+y+x7XyA2j918EaycKqdbWNnjhkRDyXcRnP2jEMjH6nhFvdKc7bALzylSg1wxCLMXzjP3999jd7x9nROZWM4Rpx8b9/uvh5TV5hTUii0ktOh6KxqonxM9Sm3kdjUGwq0hqDWUMnBaKgQUP3Yb9CUGRmfrCkLnR/8mJ2vp38v3flmRH+6Q0nFPXwrvIjj+pWhdCv+NKgMO1dS7G2be+c7k6M6cW3qRJeJd6ZMvFm7HadnlZizl6EMO7X4xkJ9ALbVJ1frLqq+zrzZzKZKJx05s5nlgcycLQ5OpXtc5NS5sIvsTKTAGVlUqbaoGug+8NVDLjjilC8t01esWVuXaVui3hGB2tDigbmbFY8Z6FHbuR7T71mKZr7odCleXDPHtWA1xnM7ivGAtnY8m/QsBjPJdbIYuuxUaLNTuwrcgaaOWd+DjZl1e8Mb/gF4WvDi+BeOsI/rZDIkneh1HGcOBMABPevEXKPvaiTocRywmhDsSgq+5jFm/Sqheoz3E54OMDi1mpzU4wjdlbxWiFCbKO3WP/qSYgeZ6R9ntaNc3LWW8Xb0Eepc/6bnzgHsOdCFriGrR4xYUfTzTNmoLI5srUo+SdCiZ4UKimVzvpQlCClK6pqX0jKQ2jV36rUQj6H14jVoppA/YYn2Aad5Db6kmBW9MaRiQH1QHrvWa7Ggme38SoqCXkX0juMkk1dOJcj5YMvcDLGCfWz3FfHrw1F3bM0U3SOOZaW4eNvT4p2Xak1y+UWeuKpGwtmgajDFpLXN1b5kzXSTkuwiFyzL4UlcN6F54XUbjjUr8BcuYXDFrq62hrvnyz49czYzOYpzUbmORbzEdmOdNN2l4lyiO1w1wA0ILdjz9Z6e2XYwUR69MnjsPdY7NZQzvugGe17yqyLHTtIWcgXZ0VeQoe36BWgnD3puAquvju+xaGnw7I3XEPT9Gpozqv9xb+hzhZ6nt5MuinXsL+pBO+mOt2Yzeq7fm3RR8zKAzraTuX/rEq3b2SqN2N39KYXy9N1fpIC3/wE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-31T16:40:58.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="_87V7Bl1yC2d-LQvLUB_" version="14.5.3" type="github">
+  <diagram id="T19K3OvtSC4P023Olb54" name="Page-1">
+    <mxGraphModel dx="1888" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-520" width="2020" height="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-1" value="Userr" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="-30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-2" value="Log In" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-5" value="ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="700" width="71" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-7" value="Add a new Restaurant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-8" value="Edit an already added restaurant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-9" value="Add Dish to created restaurant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-10" value="Edit Dish&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-11" value="Add price against each Dish" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-12" value="Edit Price of dish" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-13" value="Delete Restaurant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-14" value="Delete Dish" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-16" value="Publish Restaurant along with other details" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-17" value="Add restaurant Open Timings" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-18" value="Edit restaurant Open Timings" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="780" as="sourcePoint" />
+            <mxPoint x="180" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-21" value="" style="endArrow=classic;html=1;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="780" as="sourcePoint" />
+            <mxPoint x="180" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-22" value="" style="endArrow=classic;html=1;entryX=0.027;entryY=0.768;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="750" as="sourcePoint" />
+            <mxPoint x="59" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-23" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="780" as="sourcePoint" />
+            <mxPoint x="90" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-24" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.027;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="800" as="sourcePoint" />
+            <mxPoint x="110" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-25" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="820" as="sourcePoint" />
+            <mxPoint x="90" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-26" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="750" as="sourcePoint" />
+            <mxPoint x="150" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-27" value="" style="endArrow=classic;html=1;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="750" as="sourcePoint" />
+            <mxPoint x="120" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-28" value="" style="endArrow=classic;html=1;entryX=0.157;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="760" as="sourcePoint" />
+            <mxPoint x="90" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-29" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="760" as="sourcePoint" />
+            <mxPoint x="70" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-30" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="910" as="sourcePoint" />
+            <mxPoint x="310" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-31" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1g4MeJjmqKyL9iV5NwRu-5" target="1g4MeJjmqKyL9iV5NwRu-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1060" as="sourcePoint" />
+            <mxPoint x="130" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-32" value="Search for a restaurant by entering the name of the restaurant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-33" value="Get Menu for the searched restaurant" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-34" value="View Menu Items and Price against each Dish" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-180" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-35" value="Select one or multiple Dishes&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-36" value="View cumulative amount of the selected Dish&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-37" value="View an error for an Invalid restaurant name" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-39" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="260" y="-330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-40" value="" style="endArrow=classic;html=1;entryX=-0.003;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-41" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="260" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-42" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="270" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-43" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-36" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="130" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1g4MeJjmqKyL9iV5NwRu-44" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="1g4MeJjmqKyL9iV5NwRu-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="150" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ib6W-M3aO9yZ4it2axo6-1" value="RESTAURANT FINDER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-490" width="300" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
